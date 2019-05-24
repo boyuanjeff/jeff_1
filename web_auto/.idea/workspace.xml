@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/common/base.py" line="163" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d77be864-3e59-456f-b33b-d10fd46885e4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/login_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1488">
+              <caret line="50" column="64" selection-start-line="50" selection-start-column="64" selection-end-line="50" selection-end-column="64" />
+              <folding>
+                <element signature="e#150#180#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/test_login_ddt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="7" selection-start-line="7" selection-end-line="76" />
+              <folding>
+                <element signature="e#155#185#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/test_xx.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="22" column="65" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
+              <folding>
+                <element signature="e#147#177#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/read_excel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/PythonVirtualenv/web_auto_demo/Lib/site-packages/xlrd/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/test_login_case.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="6" selection-start-line="6" selection-end-line="69" />
+              <folding>
+                <element signature="e#154#184#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1085">
+              <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+              <folding>
+                <element signature="e#144#174#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo/day19/t_richtext.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="642">
+              <caret line="23" column="109" selection-start-line="23" selection-start-column="109" selection-end-line="23" selection-end-column="109" />
+              <folding>
+                <element signature="e#150#180#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13547">
+              <caret line="450" column="8" selection-start-line="450" selection-start-column="8" selection-end-line="450" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/base1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="775">
+              <caret line="30" column="84" selection-start-line="27" selection-start-column="8" selection-end-line="30" selection-end-column="84" />
+              <folding>
+                <element signature="e#146#176#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>S</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/run_all.py" />
+        <option value="$PROJECT_DIR$/case/test_login.py" />
+        <option value="$PROJECT_DIR$/../text_Demo/demo6/demo1.py" />
+        <option value="$PROJECT_DIR$/../text_Demo/demo6/demo2.py" />
+        <option value="$PROJECT_DIR$/common/Login.py" />
+        <option value="$PROJECT_DIR$/case/test_zentao_login.py" />
+        <option value="$PROJECT_DIR$/../text_Demo/day7/ad.py" />
+        <option value="$PROJECT_DIR$/../text_Demo/day7/dd.py" />
+        <option value="$PROJECT_DIR$/case/test_login_01.py" />
+        <option value="$PROJECT_DIR$/case/loginfunc.py" />
+        <option value="$PROJECT_DIR$/demo/day9/test_login_01.py" />
+        <option value="$PROJECT_DIR$/demo/day10/a.py" />
+        <option value="$PROJECT_DIR$/demo/day10/aa.py" />
+        <option value="$PROJECT_DIR$/demo/day10/login_zentao.py" />
+        <option value="$PROJECT_DIR$/demo/day10/test_login_case.py" />
+        <option value="$PROJECT_DIR$/demo/day11/他.py" />
+        <option value="$PROJECT_DIR$/demo/day11/t1.py" />
+        <option value="$PROJECT_DIR$/demo/day11/t3.py" />
+        <option value="$PROJECT_DIR$/demo/day12.py" />
+        <option value="$PROJECT_DIR$/demo/day12/t1.py" />
+        <option value="$PROJECT_DIR$/demo/day12/t2.py" />
+        <option value="$PROJECT_DIR$/demo/day12/天.py" />
+        <option value="$PROJECT_DIR$/demo/day12/t3.py" />
+        <option value="$PROJECT_DIR$/demo/day12/t4.py" />
+        <option value="$PROJECT_DIR$/demo/day12/caixukun.py" />
+        <option value="$PROJECT_DIR$/demo/day12/t5.py" />
+        <option value="$PROJECT_DIR$/demo/day12/t6.py" />
+        <option value="$PROJECT_DIR$/demo/day12/t_exist.py" />
+        <option value="$PROJECT_DIR$/demo/day13/t_call.py" />
+        <option value="$PROJECT_DIR$/demo/day13/t2.py" />
+        <option value="$PROJECT_DIR$/case/add_bug.py" />
+        <option value="$PROJECT_DIR$/pages/add_bug.py" />
+        <option value="$PROJECT_DIR$/common/base1.py" />
+        <option value="$PROJECT_DIR$/case/test_login_case.py" />
+        <option value="$PROJECT_DIR$/common/base.py" />
+        <option value="$PROJECT_DIR$/pages/add_bug_page.py" />
+        <option value="$PROJECT_DIR$/case/add_bug_case.py" />
+        <option value="$PROJECT_DIR$/case/test_add_bug.py" />
+        <option value="$PROJECT_DIR$/case/test_add_bug_case.py" />
+        <option value="$PROJECT_DIR$/common/read_excel.py" />
+        <option value="$PROJECT_DIR$/case/test_login_ddt.py" />
+        <option value="$PROJECT_DIR$/pages/login_page.py" />
+        <option value="$PROJECT_DIR$/case/test_xx.py" />
+        <option value="$PROJECT_DIR$/demo/day19/t2.py" />
+        <option value="$PROJECT_DIR$/demo/day19/t_richtext.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="2137" />
+    <option name="y" value="238" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="web_auto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web_auto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web_auto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web_auto" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web_auto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web_auto" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+              <item name="test_add_bug_case.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="web_auto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web_auto" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web_auto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web_auto" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web_auto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web_auto" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="day19" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web_auto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web_auto" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/case" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\web_auto\common" />
+      <recent name="E:\web_auto\pages" />
+      <recent name="E:\web_auto\demo\day9" />
+      <recent name="E:\web_auto\demo" />
+      <recent name="E:\web_auto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\web_auto\case" />
+      <recent name="E:\web_auto\pages" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.t_richtext">
+    <configuration name="login_page" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web_auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pages/login_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web_auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/read_excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t_richtext" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web_auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/day19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/day19/t_richtext.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_login_ddt.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="web_auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/test_login_ddt.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_xx.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="web_auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/test_xx.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.t_richtext" />
+        <item itemvalue="Python tests.Unittests in test_xx.py" />
+        <item itemvalue="Python tests.Unittests in test_login_ddt.py" />
+        <item itemvalue="Python.read_excel" />
+        <item itemvalue="Python.login_page" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d77be864-3e59-456f-b33b-d10fd46885e4" name="Default Changelist" comment="" />
+      <created>1556414270576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556414270576</updated>
+      <workItem from="1556414282388" duration="4079000" />
+      <workItem from="1556420441804" duration="5913000" />
+      <workItem from="1556503733415" duration="329000" />
+      <workItem from="1558311601806" duration="12451000" />
+      <workItem from="1558405291594" duration="10612000" />
+      <workItem from="1558483889917" duration="11561000" />
+      <workItem from="1558503746845" duration="10587000" />
+      <workItem from="1558571699249" duration="13041000" />
+      <workItem from="1558587949472" duration="9772000" />
+      <workItem from="1558657498516" duration="1693000" />
+      <workItem from="1558659726649" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_login_ddt_py - 2019.05.23 at 14h 28m 26s.xml">
+      <configuration name="Unittests in test_login_ddt.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_ddt_py - 2019.05.23 at 14h 28m 50s.xml">
+      <configuration name="Unittests in test_login_ddt.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_ddt_py - 2019.05.23 at 14h 29m 36s.xml">
+      <configuration name="Unittests in test_login_ddt.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_ddt_py - 2019.05.23 at 14h 30m 31s.xml">
+      <configuration name="Unittests in test_login_ddt.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_ddt_py - 2019.05.23 at 14h 31m 57s.xml">
+      <configuration name="Unittests in test_login_ddt.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_ddt_py - 2019.05.23 at 14h 38m 41s.xml">
+      <configuration name="Unittests in test_login_ddt.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_ddt_py - 2019.05.23 at 14h 42m 45s.xml">
+      <configuration name="Unittests in test_login_ddt.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_ddt_py - 2019.05.23 at 14h 43m 52s.xml">
+      <configuration name="Unittests in test_login_ddt.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_ddt_py - 2019.05.23 at 15h 14m 52s.xml">
+      <configuration name="Unittests in test_login_ddt.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_xx_py - 2019.05.23 at 15h 32m 25s.xml">
+      <configuration name="Unittests in test_xx.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="80637000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20415778" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19989339" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/web_auto$a.coverage" NAME="a Coverage Results" MODIFIED="1558324229970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/day10" />
+    <SUITE FILE_PATH="coverage/web_auto$Login.coverage" NAME="Login Coverage Results" MODIFIED="1556439035043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/web_auto$Unittests_in_test_login_ddt_py.coverage" NAME="Unittests in test_login_ddt.py Coverage Results" MODIFIED="1558595663557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto$Unittests_in_test_add_bug_py.coverage" NAME="Unittests in test_add_bug.py Coverage Results" MODIFIED="1558587736059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto$loginfunc.coverage" NAME="loginfunc Coverage Results" MODIFIED="1558319662518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto$ad.coverage" NAME="ad Coverage Results" MODIFIED="1558316757057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../text_Demo/day7" />
+    <SUITE FILE_PATH="coverage/web_auto$add_bug_page.coverage" NAME="add_bug_page Coverage Results" MODIFIED="1558587151218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
+    <SUITE FILE_PATH="coverage/web_auto$base.coverage" NAME="base Coverage Results" MODIFIED="1558585032387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/web_auto$t4.coverage" NAME="t4 Coverage Results" MODIFIED="1558489281490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/day12" />
+    <SUITE FILE_PATH="coverage/web_auto$read_excel.coverage" NAME="read_excel Coverage Results" MODIFIED="1558595050937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/web_auto$t2.coverage" NAME="t2 Coverage Results" MODIFIED="1558507310233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/day13" />
+    <SUITE FILE_PATH="coverage/web_auto$login_page.coverage" NAME="login_page Coverage Results" MODIFIED="1558589303987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
+    <SUITE FILE_PATH="coverage/web_auto$dd.coverage" NAME="dd Coverage Results" MODIFIED="1558317895138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../text_Demo/day7" />
+    <SUITE FILE_PATH="coverage/web_auto$t_richtext.coverage" NAME="t_richtext Coverage Results" MODIFIED="1558658917943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/day19" />
+    <SUITE FILE_PATH="coverage/web_auto$t_call.coverage" NAME="t_call Coverage Results" MODIFIED="1558506607521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/day13" />
+    <SUITE FILE_PATH="coverage/web_auto$t_3.coverage" NAME="t_3 Coverage Results" MODIFIED="1558489250977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/day12" />
+    <SUITE FILE_PATH="coverage/web_auto$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1556436909768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../text_Demo/demo6" />
+    <SUITE FILE_PATH="coverage/web_auto$t1__1_.coverage" NAME="t1 (1) Coverage Results" MODIFIED="1558486128587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/day12" />
+    <SUITE FILE_PATH="coverage/web_auto$Unittests_in_test_login_case_py.coverage" NAME="Unittests in test_login_case.py Coverage Results" MODIFIED="1558581480833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto$Unittests_for_test_login_LoginCase.coverage" NAME="Unittests for test_login.LoginCase Coverage Results" MODIFIED="1556421743639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto$t5.coverage" NAME="t5 Coverage Results" MODIFIED="1558493873462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/day12" />
+    <SUITE FILE_PATH="coverage/web_auto$Unittests_for_test_login_case_LoginPageCase_test_01.coverage" NAME="Unittests for test_login_case.LoginPageCase.test_01 Coverage Results" MODIFIED="1558581050690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto$login_zentao.coverage" NAME="login_zentao Coverage Results" MODIFIED="1558329429320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/day10" />
+    <SUITE FILE_PATH="coverage/web_auto$Unittests_in_test_add_bug_case_py.coverage" NAME="Unittests in test_add_bug_case.py Coverage Results" MODIFIED="1558587838556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto$test_login.coverage" NAME="test_login Coverage Results" MODIFIED="1556421694363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1558411885007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/day11" />
+    <SUITE FILE_PATH="coverage/web_auto$Unittests_for_test_add_bug_Test_Add_Bug_test_add_bug.coverage" NAME="Unittests for test_add_bug.Test_Add_Bug.test_add_bug Coverage Results" MODIFIED="1558516058642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto$caixukun.coverage" NAME="caixukun Coverage Results" MODIFIED="1558493361325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/day12" />
+    <SUITE FILE_PATH="coverage/web_auto$Unittests_in_test_xx_py.coverage" NAME="Unittests in test_xx.py Coverage Results" MODIFIED="1558596713708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1556436251320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../text_Demo/demo6" />
+    <SUITE FILE_PATH="coverage/web_auto$Unittests_for_test_add_bug_Test_Add_Bug_setUpClass.coverage" NAME="Unittests for test_add_bug.Test_Add_Bug.setUpClass Coverage Results" MODIFIED="1558516002274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto$add_bug.coverage" NAME="add_bug Coverage Results" MODIFIED="1558572059875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto$t3__1_.coverage" NAME="t3 (1) Coverage Results" MODIFIED="1558489205116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/day12" />
+    <SUITE FILE_PATH="coverage/web_auto$t3.coverage" NAME="t3 Coverage Results" MODIFIED="1558413901250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/day11" />
+    <SUITE FILE_PATH="coverage/web_auto$Unittests_for_test_add_bug_Test_Add_Bug.coverage" NAME="Unittests for test_add_bug.Test_Add_Bug Coverage Results" MODIFIED="1558572217766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../text_Demo/day7/dd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day9/loginfunc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" selection-start-line="7" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day9/test_login_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding>
+            <element signature="e#154#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day10/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day9/test_add_bug.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day10/aa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="37" selection-start-line="37" selection-end-line="42" selection-end-column="11" />
+          <folding>
+            <element signature="e#788#799#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day11/t1.py" />
+    <entry file="file://$PROJECT_DIR$/demo/day12.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/webdriver/common/by.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="27" selection-start-line="27" selection-end-line="34" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day11/t3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="29" selection-start-line="29" selection-end-line="31" selection-end-column="33" />
+          <folding>
+            <element signature="e#142#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day10/test_login_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#156#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day10/login_zentao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="326" column="13" selection-start-line="326" selection-start-column="13" selection-end-line="326" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day12/t_3.py" />
+    <entry file="file://$PROJECT_DIR$/common/HTMLTestRunner_cn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34658">
+          <caret line="1122" selection-start-line="1122" selection-end-line="1122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day12/t1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="16" column="21" selection-start-line="11" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day12/t2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1209">
+          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <folding>
+            <element signature="e#221#249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day13/t_call.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="8" />
+          <folding>
+            <element signature="e#146#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day13/t2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="e#143#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day12/t4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" selection-start-line="10" selection-end-line="14" />
+          <folding>
+            <element signature="e#160#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day12/t5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1519">
+          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+          <folding>
+            <element signature="e#142#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day12/t6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day12/t_exist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day12/caixukun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="e#148#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/unittest/suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/unittest/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="175" selection-start-line="175" selection-end-line="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/unittestpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="307" selection-start-line="307" selection-end-line="307" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/unittest/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_unittest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3621">
+          <caret line="1740" selection-start-line="1740" selection-end-line="1740" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/add_bug.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_zentao_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="899">
+          <caret line="31" selection-start-line="31" selection-end-line="40" selection-end-column="21" />
+          <folding>
+            <element signature="e#143#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/webdriver/support/select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/add_bug_case.py" />
+    <entry file="file://$PROJECT_DIR$/pages/add_bug_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="771">
+          <caret line="55" column="28" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_add_bug.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="e#153#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_add_bug_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="e#152#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day19/t2.py" />
+    <entry file="file://$PROJECT_DIR$/pages/login_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1488">
+          <caret line="50" column="64" selection-start-line="50" selection-start-column="64" selection-end-line="50" selection-end-column="64" />
+          <folding>
+            <element signature="e#150#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_login_ddt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" selection-start-line="7" selection-end-line="76" />
+          <folding>
+            <element signature="e#155#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_xx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="22" column="65" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
+          <folding>
+            <element signature="e#147#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/read_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/PythonVirtualenv/web_auto_demo/Lib/site-packages/xlrd/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_login_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" selection-start-line="6" selection-end-line="69" />
+          <folding>
+            <element signature="e#154#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1085">
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+          <folding>
+            <element signature="e#144#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13547">
+          <caret line="450" column="8" selection-start-line="450" selection-start-column="8" selection-end-line="450" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/base1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="30" column="84" selection-start-line="27" selection-start-column="8" selection-end-line="30" selection-end-column="84" />
+          <folding>
+            <element signature="e#146#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day19/t_richtext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="23" column="109" selection-start-line="23" selection-start-column="109" selection-end-line="23" selection-end-column="109" />
+          <folding>
+            <element signature="e#150#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
